@@ -1,15 +1,18 @@
-import styles from './Home.module.css';
-import savings from '../../assets/savings.svg'
+import styles from "./Home.module.css"
+import savings from "../../assets/savings.svg"
+import LinkButton from "../layout/LinkButton"
 
 function Home() {
   return (
-    <section> 
-      <h1>Bem-vindo ao <span>Costs</span></h1>
+    <section className={styles.home_container}>
+      <h1>
+        Bem-vindo ao <span>Costs</span>
+      </h1>
       <p>Comece a gerenciar os seus projetos agora mesmo</p>
-      <a href="/">Criar Projeto</a>
+      <LinkButton to="/newproject" text="Criar Projeto" />
       <img src={savings} alt="savings" />
     </section>
-  );
+  )
 }
 
-export default Home;
+export default Home
