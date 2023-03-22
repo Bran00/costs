@@ -1,77 +1,15 @@
 {
   "projects": [
     {
-      "name": "Projeto de Infra",
-      "budget": "10000",
+      "name": "Novo design de site",
+      "budget": "8000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 5000,
-      "services": [
-        {
-          "name": "Contratar um DevOps",
-          "cost": "5000",
-          "description": "DevOps para criar projeto na AWS",
-          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 2
-    },
-    {
-      "name": "Desenvolvimento do novo site",
-      "budget": "3000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "bran",
-      "budget": "8520",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Um dois",
-      "budget": "8777",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "1548",
-      "budget": "7895",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "oiiii",
-      "budget": "8765",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
     }
   ],
   "categories": [
