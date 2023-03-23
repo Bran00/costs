@@ -2,10 +2,10 @@
   "projects": [
     {
       "name": "Novo design de site",
-      "budget": "8000",
+      "budget": "5547",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
