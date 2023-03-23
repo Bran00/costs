@@ -1,37 +1,15 @@
 {
   "projects": [
     {
-      "name": "Novo design de site",
-      "budget": "5547",
+      "name": "Design",
+      "budget": "1458",
       "category": {
         "id": "3",
         "name": "Design"
       },
       "cost": 0,
       "services": [],
-      "id": 2
-    },
-    {
-      "name": "Design Int",
-      "budget": "7485",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Efeito cascata",
-      "budget": "9584",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
+      "id": 1
     }
   ],
   "categories": [
