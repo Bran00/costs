@@ -1,6 +1,6 @@
 # Start here
 
-![costs!](src/assets/costs.gif)
+![costs!](src/assets/CostsGif.gif)
 
 # Costs Project
 
