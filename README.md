@@ -20,7 +20,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project depends on some dependencies, so the command **npm install** takes care of installing all of them
 
     npm install
-_After
+After instalation
+
     npm start
  
 Runs the app in the development mode.\
